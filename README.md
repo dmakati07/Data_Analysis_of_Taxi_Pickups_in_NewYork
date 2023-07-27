@@ -49,11 +49,23 @@ Monthly Taxi Pickups: Analyzes the number of taxi pickups on a monthly basis, vi
 
 Weekday Taxi Pickups: Examines the number of taxi pickups on each day of the week, represented through a bar chart. This provides insights into weekly variations in taxi demand.
 
+![image](https://github.com/dmakati07/Data_Analysis_of_Taxi_Pickups_in_NewYork/assets/115674557/2b392650-87c0-4553-b334-de2971e23727)
+
+
 Hourly Taxi Pickups: Investigates the number of taxi pickups during different hours of the day, visualized with a bar chart. This section highlights peak hours of demand and the need for taxi deployments at specific times.
+
+![image](https://github.com/dmakati07/Data_Analysis_of_Taxi_Pickups_in_NewYork/assets/115674557/53e11ae4-4c5e-46da-af02-64d2afd6961e)
+
 
 Weekday Pickups Every Month: Shows a bar chart that displays the number of taxi pickups for each day of the week across all the months. This helps understand if the weekly patterns remain consistent throughout the year.
 
+![image](https://github.com/dmakati07/Data_Analysis_of_Taxi_Pickups_in_NewYork/assets/115674557/3542fc9c-ca39-44f5-bbbb-53296cf154c0)
+
+
 Comparing Hourly Pickups for Each Month: Visualizes the hourly taxi pickups for each month separately, presenting a bar chart for each month. This section helps to observe any changes in hourly demand patterns over the year.
+
+![image](https://github.com/dmakati07/Data_Analysis_of_Taxi_Pickups_in_NewYork/assets/115674557/1b871f6f-3bd7-423a-9c2c-68280941d6c2)
+
 
 Animated Heat Map for the Busiest Day: Utilizes a heat map with time animation to visualize the busiest day's taxi pickups. The heat map displays the busiest areas in New York City during that day.
 
