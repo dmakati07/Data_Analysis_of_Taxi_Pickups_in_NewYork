@@ -44,6 +44,9 @@ Average Pickups per Day: This section provides the number of pickups and the ave
 
 Monthly Taxi Pickups: Analyzes the number of taxi pickups on a monthly basis, visually represented using a bar chart. This helps identify any seasonal patterns or trends in demand throughout the year.
 
+![image](https://github.com/dmakati07/Data_Analysis_of_Taxi_Pickups_in_NewYork/assets/115674557/58a80443-1c82-423c-aee5-81e0a1ee2b4a)
+
+
 Weekday Taxi Pickups: Examines the number of taxi pickups on each day of the week, represented through a bar chart. This provides insights into weekly variations in taxi demand.
 
 Hourly Taxi Pickups: Investigates the number of taxi pickups during different hours of the day, visualized with a bar chart. This section highlights peak hours of demand and the need for taxi deployments at specific times.
