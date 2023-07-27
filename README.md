@@ -69,6 +69,8 @@ Comparing Hourly Pickups for Each Month: Visualizes the hourly taxi pickups for 
 
 Animated Heat Map for the Busiest Day: Utilizes a heat map with time animation to visualize the busiest day's taxi pickups. The heat map displays the busiest areas in New York City during that day.
 
+![Alt text](ezgif.com-gif-to-apng.png)
+
 ## Conclusion
 The EDA provides valuable insights into the demand for taxis based on monthly, weekly, and hourly patterns. Understanding these patterns can help the startup optimize taxi deployments, focusing on peak hours and high-demand locations. With the knowledge gained from this analysis, the startup can make informed decisions to efficiently serve passengers and run a successful taxi service in New York City.
 
@@ -80,5 +82,3 @@ Ensure you have the necessary libraries installed (PySpark Pandas, Matplotlib, P
 Set up the Azure storage access information in the script to access the dataset remotely.
 
 Run the script in your Python environment, and the EDA process will begin.
-
-![Alt text](ezgif.com-gif-to-apng.png)
